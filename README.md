@@ -1,2 +1,2 @@
-# Snack-Game
-It's a python programming languages game.
+# snake.py
+in this file i will tell you about how to create your own snake game
